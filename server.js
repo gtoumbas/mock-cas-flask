@@ -18,7 +18,7 @@ const knownProcessOptions = {
 const processOptions = nopt(knownProcessOptions, null, process.argv);
 
 // Validate arguments
-port = processOptions.port || 3004;
+port = processOptions.port || 3001;
 
 // Load database
 try {
