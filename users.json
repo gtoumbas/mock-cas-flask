@@ -1,0 +1,34 @@
+[
+    {
+        "name": "test", 
+        "attributes": { 
+            "givenname": "test",
+            "sn": "test",
+            "department": "test"
+        }
+    },
+    {
+        "name": "bob",
+        "attributes": {
+            "givenname": "bob",
+            "sn": "smith",
+            "department": "accounting"
+        }
+    },
+    {
+        "name": "joe",
+        "attributes": {
+            "givenname": "joe",
+            "sn": "smith",
+            "department": "sales"
+        }
+    },
+    {
+        "name": "jane",
+        "attributes": {
+            "givenname": "jane",
+            "sn": "smith",
+            "department": "sales"
+        }
+    }
+]
